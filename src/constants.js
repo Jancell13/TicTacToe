@@ -1,7 +1,7 @@
 export const TURNS = {
-  x: "❌",
-  o: "⚪",
-};
+  x: '❌',
+  o: '⚪',
+}
 
 export const winner_combos = [
   [0, 1, 2],
@@ -12,4 +12,4 @@ export const winner_combos = [
   [2, 5, 8],
   [0, 4, 8],
   [2, 4, 6],
-];
+]
